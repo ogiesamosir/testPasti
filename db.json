@@ -5,9 +5,15 @@
       "alas": 3,
       "tinggi" : 4,
       "luas" : 6
+    },
+    {
+      "id": 2,
+      "alas": 4,
+      "tinggi" : 6,
+      "luas" : 12
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "kelompok1"
   }
 }
