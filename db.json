@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "segitiga": [
     {
       "id": 1,
-      "title": "hello"
+      "alas": 3
+      "tinggi" : 4
+      "luas" : 6
     }
   ],
   "profile": {
