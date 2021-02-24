@@ -2,8 +2,8 @@
   "segitiga": [
     {
       "id": 1,
-      "alas": 3
-      "tinggi" : 4
+      "alas": 3,
+      "tinggi" : 4,
       "luas" : 6
     }
   ],
